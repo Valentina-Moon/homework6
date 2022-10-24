@@ -1,4 +1,4 @@
-﻿//Показать числа Фибоначчи.
+﻿//Показать числа Фибоначчи//
 
 double Fibonacci(int n)
 {
@@ -13,3 +13,5 @@ for (int i = 1; i < n; i++)
 {
     Console.WriteLine($"f({i}) = {Fibonacci(i)}");
 }
+
+// есть второе решение task5
